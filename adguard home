@@ -21,7 +21,8 @@
 @@||login.microsoftonline.com^$important
 @@||ephemeralcounters.api.roblox.com^$important
 @@||ecsv2.roblox.com^$important
-*yandex*^$important
+||yandex.com^$important
+||yandex.ru^$important
 ||metrics.icloud.com^$important
 ||ads.pinterest.com^$important
 ||adservice.google.com^$important

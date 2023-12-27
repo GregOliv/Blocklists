@@ -240,3 +240,5 @@ free.vpn.unblock.proxy.turbovpn
 *rsc.cdn77.org^$important
 ||ip-api.com^$important
 ||apbrowser.com^$important
+*myipstack.com^$important
+||hidememarketing.ams3.cdn.digitaloceanspaces.com^$important

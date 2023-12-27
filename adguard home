@@ -235,7 +235,7 @@ free.vpn.unblock.proxy.turbovpn
 ||mobile.xshare.com^$important
 ||mp4-porn.mobi^$important
 ||m.fuckedin18.com^$important
-||*in-addr.arpa^$important
-||*fastput.net^$important
-||*rsc.cdn77.org^$important
+*in-addr.arpa^$important
+*fastput.net^$important
+*rsc.cdn77.org^$important
 ||ip-api.com^$important

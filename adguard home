@@ -258,3 +258,20 @@ free.vpn.unblock.proxy.turbovpn
 *shota*^$important
 *hentai*^$important
 ||bestx.stream^$important
+||codeload.github.com^
+||githubusercontent.com^
+@@||repository-images.githubusercontent.com^
+@@||raw.githubusercontent.com^
+@@||user-images.githubusercontent.com^
+@@||avatars.githubusercontent.com^
+@@||avatars.githubusercontent.com^
+@@||camo.githubusercontent.com^
+@@||oisd.nl^
+||*itzparsa.ir^
+62.245.53.78 localhost #[IPv4]
+126.130.171.175 localhost #[IPv4]
+107.151.188.7 localhost #[IPv4]
+23.251.121.192 localhost #[IPv4]
+185.215.164.57 localhost #[IPv4]
+154.12.243.169 localhost #[IPv4]
+||nearbygallery.com^

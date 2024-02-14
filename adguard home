@@ -258,8 +258,8 @@ free.vpn.unblock.proxy.turbovpn
 *shota*^$important
 *hentai*^$important
 ||bestx.stream^$important
-||codeload.github.com^
-||githubusercontent.com^
+||codeload.github.com^$important
+||githubusercontent.com^$important
 @@||repository-images.githubusercontent.com^
 @@||raw.githubusercontent.com^
 @@||user-images.githubusercontent.com^
@@ -267,11 +267,24 @@ free.vpn.unblock.proxy.turbovpn
 @@||avatars.githubusercontent.com^
 @@||camo.githubusercontent.com^
 @@||oisd.nl^
-||*itzparsa.ir^
-62.245.53.78 localhost #[IPv4]
-126.130.171.175 localhost #[IPv4]
-107.151.188.7 localhost #[IPv4]
-23.251.121.192 localhost #[IPv4]
-185.215.164.57 localhost #[IPv4]
-154.12.243.169 localhost #[IPv4]
-||nearbygallery.com^
+||*itzparsa.ir^$important
+||62.245.53.78^$important localhost #[IPv4]
+||126.130.171.175^$important localhost #[IPv4]
+||107.151.188.7^$important localhost #[IPv4]
+||23.251.121.192^$important localhost #[IPv4]
+||185.215.164.57^$important localhost #[IPv4]
+||154.12.243.169^$important localhost #[IPv4]
+||nearbygallery.com^$important
+||ipic2021.com^$important
+||asia-sigma.org^$important
+||duniab303g186.com^$important
+||group186.com^$important
+||airbet88work.shop^$important
+||capturingeden.com^$important
+||pn-bangil.com^$important
+||vilian-maestro.xyz^$important
+||pafipcbulungan.org^$important
+||mansion77c.store^$important
+||pafikotabontang.org^$important
+||kuemeranti.store^$important
+||pg88g186.com^$important

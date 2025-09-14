@@ -1,6 +1,6 @@
 !kompas.com
 kompas.com##div>p:has-text(/Baca juga:/)
-kompas.com##i:has-text(/Ikuti terus update terkini dan notifikasi penting di Aplikasi Kompas.com/)
+kompas.com##.clearfix > i:has-text(/Ikuti terus update terkini dan notifikasi penting di Aplikasi Kompas.com/)
 kompas.com##[src*="https://video.kompas.com/"]
 kompas.com##.cleafix.social--fixed.social
 kompas.com##[src^="https://widget.kompas.id"]

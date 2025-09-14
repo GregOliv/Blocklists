@@ -1,6 +1,5 @@
 !kompas.com
 kompas.com##div>p:has-text(/Baca juga:/)
-kompas.com##.clearfix > i
 kompas.com##[src*="https://video.kompas.com/"]
 kompas.com##.cleafix.social--fixed.social
 kompas.com##[src^="https://widget.kompas.id"]

@@ -19,6 +19,17 @@ kompas.com##div>i:has-text(/WhatsApp Channel/)
 kompas.com###next_previous_inject
 kompas.com##[href="https://www.kompas.com/feedback"]
 kompas.com##.menu-plus-sticky
+kompas.com##.gate-kgplus
+kompas.com##.text-center.mt2.row
+kompas.com##.clearfix.mt1
+kompas.com##.title__content
+kompas.com##.ga--topic.topic
+kompas.com##.widgetNav > ul
+kompas.com##.footerCol-column
+kompas.com##.article__wrap__grid--fixed
+kompas.com##.lensa--photo--wp
+kompas.com##.ga--vik-gate
+kompas.com##.kompasidRec__wrap
 
 !republika.co.id
 republika.co.id###loading
